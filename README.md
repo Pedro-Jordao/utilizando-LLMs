@@ -1,10 +1,6 @@
-# 📘 Projeto de Desafio - Bootcamp [Digital Innovation One](https://www.dio.me/en)
+# 📘 Projeto Utilizando LLMs para geração de projetos
 
 > ⚠️ O seguinte README refere-se a um projeto para a obtenção de nota ou aprovação em um Bootcamp da [Digital Innovation One](https://www.dio.me/en) e está de acordo com a respectiva **"Descrição do Desafio"** que possuir.  
-> Em determinados casos, o projeto possui entregas **simplesmente visuais que sejam apresentadas neste README do GitHub**. Neste caso, a entrega do projeto será realizada por **meio deste arquivo**.
-
-> 📌 **Este repositório foi criado por mim como parte de um projeto de Bootcamp para fins de avaliação e aprovação.  
-Embora a tarefa envolva etapas e configurações básicas, a implementação foi realizada conforme os requisitos descritos na Descrição do Desafio.**
 
 ---
 
