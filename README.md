@@ -90,9 +90,9 @@ MIT
 
 ---
 
-## 🧾 Notas Finais
+# 🧾 Notas Finais
 
-Este README é um modelo padrão reutilizável para projetos desenvolvidos em bootcamps da [Digital Innovation One](https://www.dio.me/en). 
+###Este README é um modelo padrão reutilizável CRIADO POR MIM para projetos desenvolvidos em bootcamps.
 Adapto conforme o desafio proposto, mantendo a estrutura clara e objetiva.
 
 ---
